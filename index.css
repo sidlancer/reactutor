@@ -31,6 +31,7 @@ a{
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
 background-image: url(https://www.inovex.de/blog/wp-content/uploads/2022/01/one-year-of-react-native.png);
+background-size: contain;
 opacity: 0.8;
   /* Set a specific height */
   height: 50%;
